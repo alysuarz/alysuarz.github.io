@@ -1,6 +1,6 @@
 function start(){
 
-    $("menu a:first").click();
+    $("#menu a:first").click();
    // $("body").css("background-color", "pink");
 
 }
